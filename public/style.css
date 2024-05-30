@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto", sans-serif;
+    
+}
+
+div {
+    border-radius: 5px;
+  }
+#footer {
+    height: 70px;
+    width: 100%;
+    background-color: #ffcccc;
+    clear: both;
+    position: relative;
+  }
+#name {
+    font-family: "Sacramento",  cursive;;
+    float: right;
+    margin-top: 10px;
+    margin-right: 2%;
+  }
+.counter-number{
+  font-family: "Sacramento",  cursive;;
+  float: left;
+  margin-top: 10px;
+  margin-left: 2%;
+ 
+}  
